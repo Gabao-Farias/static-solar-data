@@ -1,0 +1,5042 @@
+[
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689034200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689034800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689035400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689036000009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689036600008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689037200009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689037800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689038400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689039000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689039600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689040200008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689040800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689041400102"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689042000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689042600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689043200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689043800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689044400006"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689045000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689045600010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689046200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689046800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689047400008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689048000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689048600009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689049200103"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689049800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689050400008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689051000007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689051600010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689052200006"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689052800008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689053400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689054000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689054600010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689055200008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689055800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689056400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689057000103"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689057600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689058200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689058800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689059400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689060000009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689060600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689061200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689061800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689062400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "54",
+        "timestamp": "1689063000009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "54",
+        "timestamp": "1689063600010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "54",
+        "timestamp": "1689064200009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "54",
+        "timestamp": "1689064800076"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "54",
+        "timestamp": "1689065400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "54",
+        "timestamp": "1689066000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "54",
+        "timestamp": "1689066600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "54",
+        "timestamp": "1689067200009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "53",
+        "timestamp": "1689067800008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "53",
+        "timestamp": "1689068400010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "53",
+        "timestamp": "1689069000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "53",
+        "timestamp": "1689069600010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "53",
+        "timestamp": "1689070200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "53",
+        "timestamp": "1689070800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "53",
+        "timestamp": "1689071400007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "53",
+        "timestamp": "1689072000011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "52",
+        "timestamp": "1689072600031"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "53",
+        "timestamp": "1689073200011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "54",
+        "timestamp": "1689073800011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "57",
+        "timestamp": "1689074400006"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "57",
+        "timestamp": "1689075000007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "56",
+        "timestamp": "1689075600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "65",
+        "timestamp": "1689076200009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "78",
+        "timestamp": "1689076800011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "89",
+        "timestamp": "1689077400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689078000011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689078600011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "88",
+        "timestamp": "1689079200008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "95",
+        "timestamp": "1689079800010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "96",
+        "timestamp": "1689080400081"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "96",
+        "timestamp": "1689081000011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "96",
+        "timestamp": "1689081600011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689082200010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689082800008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689083400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689084000009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689084600011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689085200010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689085800009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689086400007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689087000010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689087600009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689088200103"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689088800011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689089400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689090000007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689090600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689091200010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689091800008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "90",
+        "timestamp": "1689092400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689093000011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689093600011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689094200008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "80",
+        "timestamp": "1689094800010"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "90",
+        "timestamp": "1689095400007"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "100",
+        "timestamp": "1689096000103"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689096600011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689097200011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689097800007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689098400011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "99",
+        "timestamp": "1689099000010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "99",
+        "timestamp": "1689099600008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689100200011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689100800007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689101400011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689102000008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689102600010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689103200010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "98",
+        "timestamp": "1689103800103"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "81",
+        "timestamp": "1689104400012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689105000011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689105600010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "76",
+        "timestamp": "1689106200009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "72",
+        "timestamp": "1689106800010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "69",
+        "timestamp": "1689107400007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "68",
+        "timestamp": "1689108000011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "67",
+        "timestamp": "1689108600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689109200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689109800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689110400010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689111000007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689111600103"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689112200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689112800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689113400008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689114000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689114600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689115200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689115800013"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "64",
+        "timestamp": "1689116400005"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689117000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689117600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "63",
+        "timestamp": "1689118200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "63",
+        "timestamp": "1689118800008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "63",
+        "timestamp": "1689119400095"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689120000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689120600012"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689121200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689121800004"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689122400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689123000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689123600010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689124200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689124800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689125400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689126000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689126600009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689127200106"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689127800012"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689128400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689129000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689129600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689130200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689130800012"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689131400010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689132000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689132600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689133200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689133800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689134400009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689135000104"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689135600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689136200010"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "58",
+        "timestamp": "1689136800008"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "58",
+        "timestamp": "1689137400007"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "58",
+        "timestamp": "1689138000007"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "58",
+        "timestamp": "1689138600010"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "58",
+        "timestamp": "1689139200010"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "58",
+        "timestamp": "1689139800011"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "58",
+        "timestamp": "1689140400010"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "58",
+        "timestamp": "1689141000008"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "58",
+        "timestamp": "1689141600007"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "57",
+        "timestamp": "1689142200009"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "57",
+        "timestamp": "1689142800031"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "57",
+        "timestamp": "1689143400011"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "57",
+        "timestamp": "1689144000011"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "57",
+        "timestamp": "1689144600011"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "57",
+        "timestamp": "1689145200008"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "56",
+        "timestamp": "1689145800010"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "56",
+        "timestamp": "1689146400008"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "56",
+        "timestamp": "1689147000010"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "56",
+        "timestamp": "1689147600008"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "56",
+        "timestamp": "1689148200011"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "55",
+        "timestamp": "1689148800011"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "55",
+        "timestamp": "1689149400007"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "55",
+        "timestamp": "1689150000007"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "55",
+        "timestamp": "1689150600103"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "55",
+        "timestamp": "1689151200011"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "55",
+        "timestamp": "1689151800011"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "54",
+        "timestamp": "1689152400011"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "55",
+        "timestamp": "1689153000006"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "55",
+        "timestamp": "1689153600008"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "55",
+        "timestamp": "1689154200009"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "54",
+        "timestamp": "1689154800010"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "54",
+        "timestamp": "1689155400011"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "54",
+        "timestamp": "1689156000010"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "54",
+        "timestamp": "1689156600007"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "53",
+        "timestamp": "1689157200006"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "53",
+        "timestamp": "1689157800008"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "54",
+        "timestamp": "1689158400103"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "53",
+        "timestamp": "1689159000010"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "53",
+        "timestamp": "1689159600011"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "53",
+        "timestamp": "1689160200011"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "53",
+        "timestamp": "1689160800007"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "52",
+        "timestamp": "1689161400008"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "53",
+        "timestamp": "1689162000008"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "53",
+        "timestamp": "1689162600012"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "52",
+        "timestamp": "1689163200012"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "52",
+        "timestamp": "1689163800012"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "52",
+        "timestamp": "1689164400010"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "52",
+        "timestamp": "1689165000008"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "52",
+        "timestamp": "1689165600008"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "52",
+        "timestamp": "1689166200102"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "52",
+        "timestamp": "1689166800012"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "54",
+        "timestamp": "1689167400011"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "63",
+        "timestamp": "1689168000008"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "62",
+        "timestamp": "1689168600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "62",
+        "timestamp": "1689169200007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "66",
+        "timestamp": "1689169800007"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "58",
+        "timestamp": "1689170400103"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "57",
+        "timestamp": "1689171000010"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "61",
+        "timestamp": "1689171600008"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "74",
+        "timestamp": "1689172200008"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "75",
+        "timestamp": "1689172800010"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "64",
+        "timestamp": "1689173400010"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "59",
+        "timestamp": "1689174000008"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "55",
+        "timestamp": "1689174600006"
+    },
+    {
+        "weather": "11d",
+        "batterySOC": "54",
+        "timestamp": "1689175200011"
+    },
+    {
+        "weather": "11d",
+        "batterySOC": "56",
+        "timestamp": "1689175800007"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "70",
+        "timestamp": "1689176400008"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "75",
+        "timestamp": "1689177000008"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "80",
+        "timestamp": "1689177600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "78",
+        "timestamp": "1689178200061"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "82",
+        "timestamp": "1689178800012"
+    },
+    {
+        "weather": "11d",
+        "batterySOC": "80",
+        "timestamp": "1689179400007"
+    },
+    {
+        "weather": "11d",
+        "batterySOC": "77",
+        "timestamp": "1689180000007"
+    },
+    {
+        "weather": "11d",
+        "batterySOC": "73",
+        "timestamp": "1689180600007"
+    },
+    {
+        "weather": "11d",
+        "batterySOC": "67",
+        "timestamp": "1689181200007"
+    },
+    {
+        "weather": "11d",
+        "batterySOC": "62",
+        "timestamp": "1689181800009"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "61",
+        "timestamp": "1689182400010"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "59",
+        "timestamp": "1689183000011"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "57",
+        "timestamp": "1689183600011"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "55",
+        "timestamp": "1689184200007"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "53",
+        "timestamp": "1689184800007"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "53",
+        "timestamp": "1689185400008"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "52",
+        "timestamp": "1689186000026"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "54",
+        "timestamp": "1689186600010"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "53",
+        "timestamp": "1689187200011"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "54",
+        "timestamp": "1689187800009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "52",
+        "timestamp": "1689188400007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "54",
+        "timestamp": "1689189000006"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "54",
+        "timestamp": "1689189600008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "59",
+        "timestamp": "1689190200011"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "55",
+        "timestamp": "1689190800011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "70",
+        "timestamp": "1689191400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "74",
+        "timestamp": "1689192000009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "73",
+        "timestamp": "1689192600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "73",
+        "timestamp": "1689193200008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "61",
+        "timestamp": "1689193800095"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "55",
+        "timestamp": "1689194400011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "52",
+        "timestamp": "1689195000012"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "51",
+        "timestamp": "1689195600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "51",
+        "timestamp": "1689196200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "51",
+        "timestamp": "1689196800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "51",
+        "timestamp": "1689197400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "51",
+        "timestamp": "1689198000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "51",
+        "timestamp": "1689198600010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689199200012"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689199800006"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689200400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689201000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "51",
+        "timestamp": "1689201600102"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689202200011"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "50",
+        "timestamp": "1689202800005"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689203400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689204000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689204600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689205200008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689205800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689206400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689207000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689207600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689208200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689208800008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689209400103"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689210000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689210600009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689211200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689211800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689212400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689213000009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689213600010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689214200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689214800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689215400009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689216000007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689216600008"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "50",
+        "timestamp": "1689217200066"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689217800008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689218400010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689219000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689219600009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689220200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689220800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689221400104"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689222000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689222600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689223200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689223800008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689224400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689225000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689225600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689226200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689226800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689227400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689228000007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689228600009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689229200103"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689229800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689230400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689231000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689231600008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689232200009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689232800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689233400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689234000012"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689234600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689235200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689235800008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689236400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689237000007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689237600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689238200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "49",
+        "timestamp": "1689238800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689239400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689240000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689240600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689241200103"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689241800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689242400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689243000009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "50",
+        "timestamp": "1689243600010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "50",
+        "timestamp": "1689244200008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "50",
+        "timestamp": "1689244800010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "50",
+        "timestamp": "1689245400011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "50",
+        "timestamp": "1689246000012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "50",
+        "timestamp": "1689246600008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "52",
+        "timestamp": "1689247200010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "52",
+        "timestamp": "1689247800007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "65",
+        "timestamp": "1689248400007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "83",
+        "timestamp": "1689249000018"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "80",
+        "timestamp": "1689249600011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "82",
+        "timestamp": "1689250200010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "84",
+        "timestamp": "1689250800010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "84",
+        "timestamp": "1689251400008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "87",
+        "timestamp": "1689252000007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "95",
+        "timestamp": "1689252600009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "84",
+        "timestamp": "1689253200012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "81",
+        "timestamp": "1689253800012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "88",
+        "timestamp": "1689254400011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "93",
+        "timestamp": "1689255000007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689255600008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689256200007"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "100",
+        "timestamp": "1689256800065"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689257400011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689258000010"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "99",
+        "timestamp": "1689258600011"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "100",
+        "timestamp": "1689259200008"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "100",
+        "timestamp": "1689259800009"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "100",
+        "timestamp": "1689260400009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689261000012"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "100",
+        "timestamp": "1689261600007"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "100",
+        "timestamp": "1689262200007"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "99",
+        "timestamp": "1689262800009"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "100",
+        "timestamp": "1689263400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689264000007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689264600103"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "98",
+        "timestamp": "1689265200011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689265800012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "89",
+        "timestamp": "1689266400012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689267000008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689267600008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689268200011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689268800103"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689269400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689270000011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689270600011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689271200008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689271800007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689272400008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689273000011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689273600008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "86",
+        "timestamp": "1689274200007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "82",
+        "timestamp": "1689274800007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "92",
+        "timestamp": "1689275400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "84",
+        "timestamp": "1689276000010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "75",
+        "timestamp": "1689276600064"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "76",
+        "timestamp": "1689277200011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "73",
+        "timestamp": "1689277800011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "72",
+        "timestamp": "1689278400006"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "80",
+        "timestamp": "1689279000008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "87",
+        "timestamp": "1689279600008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "94",
+        "timestamp": "1689280200008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "77",
+        "timestamp": "1689280800011"
+    },
+    {
+        "weather": "10d",
+        "batterySOC": "71",
+        "timestamp": "1689281400011"
+    },
+    {
+        "weather": "10n",
+        "batterySOC": "70",
+        "timestamp": "1689282000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "69",
+        "timestamp": "1689282600008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "68",
+        "timestamp": "1689283200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "68",
+        "timestamp": "1689283800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "68",
+        "timestamp": "1689284400091"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "68",
+        "timestamp": "1689285000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689285600008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689286200008"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "67",
+        "timestamp": "1689286800008"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "67",
+        "timestamp": "1689287400007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "66",
+        "timestamp": "1689288000010"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "66",
+        "timestamp": "1689288600010"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "66",
+        "timestamp": "1689289200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689289800007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "65",
+        "timestamp": "1689290400010"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "65",
+        "timestamp": "1689291000007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "65",
+        "timestamp": "1689291600007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "65",
+        "timestamp": "1689292200101"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "64",
+        "timestamp": "1689292800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689293400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689294000007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689294600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689295200006"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "63",
+        "timestamp": "1689295800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689296400010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689297000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "63",
+        "timestamp": "1689297600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689298200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "63",
+        "timestamp": "1689298800009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689299400008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "63",
+        "timestamp": "1689300000104"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689300600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689301200012"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689301800004"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689302400009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689303000007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689303600006"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689304200012"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689304800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "62",
+        "timestamp": "1689305400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689306000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689306600008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689307200009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689307800103"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689308400010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689309000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689309600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689310200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689310800009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689311400010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689312000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689312600012"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689313200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689313800008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689314400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689315000009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689315600104"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689316200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689316800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689317400004"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689318000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689318600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689319200008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689319800102"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689320400010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689321000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689321600009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689322200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689322800008"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689323400010"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689324000012"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689324600011"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689325200005"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689325800008"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "57",
+        "timestamp": "1689326400009"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689327000007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689327600069"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689328200010"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "57",
+        "timestamp": "1689328800007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "57",
+        "timestamp": "1689329400007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "57",
+        "timestamp": "1689330000007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689330600009"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "57",
+        "timestamp": "1689331200008"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "57",
+        "timestamp": "1689331800011"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "58",
+        "timestamp": "1689332400011"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "58",
+        "timestamp": "1689333000007"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "58",
+        "timestamp": "1689333600007"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "60",
+        "timestamp": "1689334200004"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "69",
+        "timestamp": "1689334800008"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "74",
+        "timestamp": "1689335400103"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "77",
+        "timestamp": "1689336000011"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "80",
+        "timestamp": "1689336600011"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "82",
+        "timestamp": "1689337200007"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "87",
+        "timestamp": "1689337800008"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "98",
+        "timestamp": "1689338400008"
+    },
+    {
+        "weather": "50d",
+        "batterySOC": "98",
+        "timestamp": "1689339000007"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "100",
+        "timestamp": "1689339600010"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "100",
+        "timestamp": "1689340200010"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "100",
+        "timestamp": "1689340800011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689341400007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689342000010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689342600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689343200106"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689343800011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689344400011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689345000007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689345600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689346200008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689346800009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689347400104"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689348000011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689348600012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "99",
+        "timestamp": "1689349200011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689349800007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689350400009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689351000007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689351600039"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689352200011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689352800010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "99",
+        "timestamp": "1689353400011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "98",
+        "timestamp": "1689354000008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689354600006"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "98",
+        "timestamp": "1689355200011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "98",
+        "timestamp": "1689355800103"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689356400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689357000011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689357600012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689358200007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689358800008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689359400008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689360000019"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689360600012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "99",
+        "timestamp": "1689361200011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689361800008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689362400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689363000007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689363600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689364200040"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689364800011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "98",
+        "timestamp": "1689365400012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689366000009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "91",
+        "timestamp": "1689366600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "75",
+        "timestamp": "1689367200007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "70",
+        "timestamp": "1689367800009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "70",
+        "timestamp": "1689368400038"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "69",
+        "timestamp": "1689369000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "68",
+        "timestamp": "1689369600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "68",
+        "timestamp": "1689370200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689370800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689371400008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689372000005"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689372600010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689373200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689373800009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689374400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689375000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689375600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689376200103"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689376800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689377400008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689378000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689378600010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689379200009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689379800009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689380400011"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "63",
+        "timestamp": "1689381000007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "63",
+        "timestamp": "1689381600011"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "64",
+        "timestamp": "1689382200005"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "62",
+        "timestamp": "1689382800007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "63",
+        "timestamp": "1689383400010"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "62",
+        "timestamp": "1689384000102"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "62",
+        "timestamp": "1689384600011"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "62",
+        "timestamp": "1689385200006"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "62",
+        "timestamp": "1689385800007"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "62",
+        "timestamp": "1689386400006"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "61",
+        "timestamp": "1689387000007"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "62",
+        "timestamp": "1689387600007"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "62",
+        "timestamp": "1689388200010"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "61",
+        "timestamp": "1689388800011"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "61",
+        "timestamp": "1689389400011"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "61",
+        "timestamp": "1689390000006"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "61",
+        "timestamp": "1689390600007"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "61",
+        "timestamp": "1689391200008"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "60",
+        "timestamp": "1689391800103"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "61",
+        "timestamp": "1689392400011"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "60",
+        "timestamp": "1689393000010"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "60",
+        "timestamp": "1689393600007"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "60",
+        "timestamp": "1689394200009"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "60",
+        "timestamp": "1689394800010"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "60",
+        "timestamp": "1689395400007"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "59",
+        "timestamp": "1689396000010"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "59",
+        "timestamp": "1689396600010"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "59",
+        "timestamp": "1689397200007"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "59",
+        "timestamp": "1689397800008"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "59",
+        "timestamp": "1689398400007"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "58",
+        "timestamp": "1689399000009"
+    },
+    {
+        "weather": "02n",
+        "batterySOC": "58",
+        "timestamp": "1689399600103"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "58",
+        "timestamp": "1689400200009"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "58",
+        "timestamp": "1689400800010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "58",
+        "timestamp": "1689401400007"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "58",
+        "timestamp": "1689402000008"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "57",
+        "timestamp": "1689402600010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "58",
+        "timestamp": "1689403200009"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "57",
+        "timestamp": "1689403800039"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "57",
+        "timestamp": "1689404400011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "57",
+        "timestamp": "1689405000010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "57",
+        "timestamp": "1689405600006"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "57",
+        "timestamp": "1689406200007"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "57",
+        "timestamp": "1689406800007"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "57",
+        "timestamp": "1689407400008"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "57",
+        "timestamp": "1689408000012"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "57",
+        "timestamp": "1689408600011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "57",
+        "timestamp": "1689409200007"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "57",
+        "timestamp": "1689409800007"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "56",
+        "timestamp": "1689410400009"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "56",
+        "timestamp": "1689411000011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "56",
+        "timestamp": "1689411600101"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "56",
+        "timestamp": "1689412200011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "55",
+        "timestamp": "1689412800010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "56",
+        "timestamp": "1689413400008"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "55",
+        "timestamp": "1689414000010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "56",
+        "timestamp": "1689414600008"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "55",
+        "timestamp": "1689415200007"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "55",
+        "timestamp": "1689415800010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "56",
+        "timestamp": "1689416400011"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "55",
+        "timestamp": "1689417000012"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "56",
+        "timestamp": "1689417600008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "57",
+        "timestamp": "1689418200007"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "57",
+        "timestamp": "1689418800009"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "59",
+        "timestamp": "1689419400103"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "67",
+        "timestamp": "1689420000011"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "90",
+        "timestamp": "1689420600011"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "98",
+        "timestamp": "1689421200012"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689421800009"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689422400009"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689423000006"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689423600011"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689424200010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689424800011"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689425400009"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689426000007"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689426600006"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689427200103"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689427800004"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689428400010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689429000009"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689429600010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "97",
+        "timestamp": "1689430200008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "97",
+        "timestamp": "1689430800008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "98",
+        "timestamp": "1689431400011"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "98",
+        "timestamp": "1689432000007"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689432600011"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689433200008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "98",
+        "timestamp": "1689433800007"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "99",
+        "timestamp": "1689434400010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689435000103"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689435600011"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "98",
+        "timestamp": "1689436200011"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689436800005"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689437400007"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "97",
+        "timestamp": "1689438000010"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "99",
+        "timestamp": "1689438600009"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "98",
+        "timestamp": "1689439200007"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "100",
+        "timestamp": "1689439800011"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "99",
+        "timestamp": "1689440400011"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "100",
+        "timestamp": "1689441000011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689441600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "99",
+        "timestamp": "1689442200010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689442800103"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "98",
+        "timestamp": "1689443400011"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689444000007"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689444600012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "96",
+        "timestamp": "1689445200007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "99",
+        "timestamp": "1689445800010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689446400009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689447000010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689447600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689448200010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689448800007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689449400007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "99",
+        "timestamp": "1689450000007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689450600101"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689451200010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "98",
+        "timestamp": "1689451800011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "96",
+        "timestamp": "1689452400011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "77",
+        "timestamp": "1689453000007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "71",
+        "timestamp": "1689453600008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "70",
+        "timestamp": "1689454200008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "69",
+        "timestamp": "1689454800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "68",
+        "timestamp": "1689455400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "68",
+        "timestamp": "1689456000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689456600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689457200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689457800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689458400104"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689459000011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "65",
+        "timestamp": "1689459600005"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "65",
+        "timestamp": "1689460200011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "65",
+        "timestamp": "1689460800010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "65",
+        "timestamp": "1689461400008"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "65",
+        "timestamp": "1689462000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689462600008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689463200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689463800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689464400009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689465000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689465600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689466200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "63",
+        "timestamp": "1689466800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689467400012"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "63",
+        "timestamp": "1689468000010"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "63",
+        "timestamp": "1689468600007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "62",
+        "timestamp": "1689469200007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "62",
+        "timestamp": "1689469800071"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "62",
+        "timestamp": "1689470400011"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "62",
+        "timestamp": "1689471000005"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "62",
+        "timestamp": "1689471600007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "62",
+        "timestamp": "1689472200008"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "61",
+        "timestamp": "1689472800007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "62",
+        "timestamp": "1689473400008"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "61",
+        "timestamp": "1689474000011"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "61",
+        "timestamp": "1689474600009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689475200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689475800009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689476400006"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689477000007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689477600101"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "61",
+        "timestamp": "1689478200011"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "60",
+        "timestamp": "1689478800010"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "60",
+        "timestamp": "1689479400007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "60",
+        "timestamp": "1689480000010"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "60",
+        "timestamp": "1689480600006"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "60",
+        "timestamp": "1689481200008"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "60",
+        "timestamp": "1689481800011"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "60",
+        "timestamp": "1689482400008"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "59",
+        "timestamp": "1689483000011"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "59",
+        "timestamp": "1689483600007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "59",
+        "timestamp": "1689484200008"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "59",
+        "timestamp": "1689484800007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689485400104"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689486000010"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689486600011"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689487200009"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689487800007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "57",
+        "timestamp": "1689488400007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "58",
+        "timestamp": "1689489000007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689489600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689490200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689490800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689491400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689492000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689492600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689493200091"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689493800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689494400010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689495000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689495600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689496200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689496800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689497400012"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689498000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689498600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689499200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689499800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689500400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689501000074"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689501600010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689502200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689502800010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "55",
+        "timestamp": "1689503400011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "56",
+        "timestamp": "1689504000007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "57",
+        "timestamp": "1689504600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "57",
+        "timestamp": "1689505200012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "58",
+        "timestamp": "1689505800010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "67",
+        "timestamp": "1689506400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "88",
+        "timestamp": "1689507000008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "95",
+        "timestamp": "1689507600009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689508200008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689508800104"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689509400011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689510000011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689510600014"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689511200008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689511800009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689512400007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689513000005"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689513600011"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "100",
+        "timestamp": "1689514200010"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "100",
+        "timestamp": "1689514800011"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "100",
+        "timestamp": "1689515400008"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "100",
+        "timestamp": "1689516000010"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "97",
+        "timestamp": "1689516600103"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "97",
+        "timestamp": "1689517200011"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "97",
+        "timestamp": "1689517800005"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "97",
+        "timestamp": "1689518400007"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "98",
+        "timestamp": "1689519000010"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "98",
+        "timestamp": "1689519600006"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "99",
+        "timestamp": "1689520200009"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "98",
+        "timestamp": "1689520800011"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "97",
+        "timestamp": "1689521400010"
+    },
+    {
+        "weather": "03d",
+        "batterySOC": "100",
+        "timestamp": "1689522000006"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "100",
+        "timestamp": "1689522600007"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "99",
+        "timestamp": "1689523200007"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "98",
+        "timestamp": "1689523800008"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "100",
+        "timestamp": "1689524400077"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "100",
+        "timestamp": "1689525000011"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "97",
+        "timestamp": "1689525600011"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "100",
+        "timestamp": "1689526200010"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "100",
+        "timestamp": "1689526800007"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "100",
+        "timestamp": "1689527400008"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "100",
+        "timestamp": "1689528000008"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "100",
+        "timestamp": "1689528600011"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "97",
+        "timestamp": "1689529200006"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "100",
+        "timestamp": "1689529800007"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "100",
+        "timestamp": "1689530400007"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "100",
+        "timestamp": "1689531000006"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "100",
+        "timestamp": "1689531600008"
+    },
+    {
+        "weather": "02d",
+        "batterySOC": "97",
+        "timestamp": "1689532200024"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "97",
+        "timestamp": "1689532800011"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "98",
+        "timestamp": "1689533400010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "99",
+        "timestamp": "1689534000010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689534600007"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689535200007"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "99",
+        "timestamp": "1689535800008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "97",
+        "timestamp": "1689536400023"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "98",
+        "timestamp": "1689537000010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689537600010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "96",
+        "timestamp": "1689538200008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "80",
+        "timestamp": "1689538800008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "77",
+        "timestamp": "1689539400008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "72",
+        "timestamp": "1689540000008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "70",
+        "timestamp": "1689540600011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "68",
+        "timestamp": "1689541200011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "68",
+        "timestamp": "1689541800011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "67",
+        "timestamp": "1689542400007"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "67",
+        "timestamp": "1689543000008"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "67",
+        "timestamp": "1689543600009"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "67",
+        "timestamp": "1689544200103"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "66",
+        "timestamp": "1689544800010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "66",
+        "timestamp": "1689545400010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "66",
+        "timestamp": "1689546000011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "66",
+        "timestamp": "1689546600008"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "65",
+        "timestamp": "1689547200010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "65",
+        "timestamp": "1689547800008"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "65",
+        "timestamp": "1689548400102"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "65",
+        "timestamp": "1689549000010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "64",
+        "timestamp": "1689549600010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "64",
+        "timestamp": "1689550200011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "64",
+        "timestamp": "1689550800007"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "64",
+        "timestamp": "1689551400007"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "64",
+        "timestamp": "1689552000007"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "63",
+        "timestamp": "1689552600011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "64",
+        "timestamp": "1689553200010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "64",
+        "timestamp": "1689553800011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "63",
+        "timestamp": "1689554400007"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "63",
+        "timestamp": "1689555000010"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "62",
+        "timestamp": "1689555600009"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "63",
+        "timestamp": "1689556200084"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "62",
+        "timestamp": "1689556800011"
+    },
+    {
+        "weather": "01n",
+        "batterySOC": "62",
+        "timestamp": "1689557400010"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "62",
+        "timestamp": "1689558000011"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "62",
+        "timestamp": "1689558600007"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "61",
+        "timestamp": "1689559200008"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "61",
+        "timestamp": "1689559800008"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "62",
+        "timestamp": "1689560400011"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "61",
+        "timestamp": "1689561000011"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "61",
+        "timestamp": "1689561600010"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "61",
+        "timestamp": "1689562200011"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "61",
+        "timestamp": "1689562800006"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "61",
+        "timestamp": "1689563400009"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "61",
+        "timestamp": "1689564000056"
+    },
+    {
+        "weather": "03n",
+        "batterySOC": "61",
+        "timestamp": "1689564600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689565200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689565800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689566400010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689567000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689567600008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "60",
+        "timestamp": "1689568200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689568800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689569400010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689570000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689570600008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689571200009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "59",
+        "timestamp": "1689571800079"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689572400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689573000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689573600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689574200008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689574800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "58",
+        "timestamp": "1689575400008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689576000039"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689576600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689577200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689577800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689578400010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "57",
+        "timestamp": "1689579000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689579600009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689580200103"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689580800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689581400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689582000006"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "56",
+        "timestamp": "1689582600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689583200010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689583800009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689584400007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689585000038"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689585600011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689586200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689586800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "54",
+        "timestamp": "1689587400008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689588000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689588600009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "55",
+        "timestamp": "1689589200039"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "55",
+        "timestamp": "1689589800011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "55",
+        "timestamp": "1689590400011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "55",
+        "timestamp": "1689591000006"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "55",
+        "timestamp": "1689591600009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "55",
+        "timestamp": "1689592200009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "57",
+        "timestamp": "1689592800009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "76",
+        "timestamp": "1689593400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "92",
+        "timestamp": "1689594000010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689594600011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "99",
+        "timestamp": "1689595200011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689595800007"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689596400007"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689597000104"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689597600010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689598200010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689598800011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689599400010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689600000007"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689600600004"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689601200010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689601800008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689602400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689603000008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689603600008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689604200007"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "97",
+        "timestamp": "1689604800103"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689605400011"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689606000012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689606600007"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689607200008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "99",
+        "timestamp": "1689607800006"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "97",
+        "timestamp": "1689608400009"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "98",
+        "timestamp": "1689609000011"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689609600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689610200010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "98",
+        "timestamp": "1689610800009"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689611400007"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "97",
+        "timestamp": "1689612000009"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "97",
+        "timestamp": "1689612600104"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689613200011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689613800009"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "96",
+        "timestamp": "1689614400008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689615000010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "99",
+        "timestamp": "1689615600008"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689616200009"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689616800010"
+    },
+    {
+        "weather": "01d",
+        "batterySOC": "100",
+        "timestamp": "1689617400011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "98",
+        "timestamp": "1689618000011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689618600008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689619200007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689619800009"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "98",
+        "timestamp": "1689620400008"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689621000005"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689621600007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689622200006"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "99",
+        "timestamp": "1689622800005"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "97",
+        "timestamp": "1689623400005"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689624000012"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "98",
+        "timestamp": "1689624600011"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "100",
+        "timestamp": "1689625200009"
+    },
+    {
+        "weather": "02dw",
+        "batterySOC": "100",
+        "timestamp": "1689625800006"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "77",
+        "timestamp": "1689626400010"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "71",
+        "timestamp": "1689627000007"
+    },
+    {
+        "weather": "04d",
+        "batterySOC": "68",
+        "timestamp": "1689627600059"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "68",
+        "timestamp": "1689628200011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689628800011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689629400008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689630000008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689630600007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "67",
+        "timestamp": "1689631200009"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689631800010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689632400011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "66",
+        "timestamp": "1689633000011"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689633600006"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689634200008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689634800007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689635400103"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689636000010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689636600010"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "65",
+        "timestamp": "1689637200007"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689637800008"
+    },
+    {
+        "weather": "04n",
+        "batterySOC": "64",
+        "timestamp": "1689638400010"
+    }
+]

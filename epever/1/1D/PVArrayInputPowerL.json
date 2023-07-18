@@ -1,0 +1,1442 @@
+[
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689552600011"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689552900010"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689553200010"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689553500010"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689553800011"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689554100006"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689554400007"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689554700007"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689555000010"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689555300006"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689555600009"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689555900007"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689556200084"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689556500011"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689556800011"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689557100010"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689557400010"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689557700011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689558000011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689558300011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689558600007"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689558900008"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689559200008"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689559500007"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689559800008"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689560100103"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689560400011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689560700010"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689561000011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689561300011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689561600010"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689561900009"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689562200011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689562500007"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689562800006"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689563100010"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689563400009"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689563700009"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689564000056"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689564300010"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689564600011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689564900010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689565200010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689565500010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689565800011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689566100010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689566400010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689566700007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689567000010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689567300003"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689567600008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689567900053"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689568200010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689568500010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689568800010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689569100009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689569400010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689569700007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689570000011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689570300010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689570600008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689570900007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689571200009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689571500007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689571800079"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689572100012"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689572400011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689572700011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689573000008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689573300010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689573600007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689573900007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689574200008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689574500011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689574800007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689575100010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689575400008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689575700104"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689576000039"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689576300010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689576600011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689576900010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689577200011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689577500010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689577800011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689578100011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689578400010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689578700008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689579000008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689579300007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689579600009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689579900007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689580200103"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689580500039"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689580800010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689581100011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689581400011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689581700009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689582000006"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689582300007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689582600007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689582900010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689583200010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689583500007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689583800009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689584100009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689584400007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689584700104"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689585000038"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689585300011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689585600011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689585900012"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689586200011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689586500010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689586800007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689587100007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689587400008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689587700010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689588000008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689588300008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689588600009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689588900096"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689589200039"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0.25",
+        "timestamp": "1689589500011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "0.12",
+        "timestamp": "1689589800011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "1.13",
+        "timestamp": "1689590100010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "2.76",
+        "timestamp": "1689590400011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "2.77",
+        "timestamp": "1689590700010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "4.03",
+        "timestamp": "1689591000006"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "4.79",
+        "timestamp": "1689591300006"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "4.79",
+        "timestamp": "1689591600009"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "4.79",
+        "timestamp": "1689591900008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "5.42",
+        "timestamp": "1689592200009"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "6.56",
+        "timestamp": "1689592500007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "8.6",
+        "timestamp": "1689592800009"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "20.25",
+        "timestamp": "1689593100086"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "65.8",
+        "timestamp": "1689593400010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "71.04",
+        "timestamp": "1689593700011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "89.35",
+        "timestamp": "1689594000010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "91.79",
+        "timestamp": "1689594300010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "112.05",
+        "timestamp": "1689594600011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "112.55",
+        "timestamp": "1689594900009"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "101.5",
+        "timestamp": "1689595200011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "113.92",
+        "timestamp": "1689595500007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "117.48",
+        "timestamp": "1689595800007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "114.62",
+        "timestamp": "1689596100007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "134.5",
+        "timestamp": "1689596400007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "98.28",
+        "timestamp": "1689596700009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "129.72",
+        "timestamp": "1689597000104"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "111.9",
+        "timestamp": "1689597300010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "117",
+        "timestamp": "1689597600010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "109.14",
+        "timestamp": "1689597900011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "105.98",
+        "timestamp": "1689598200010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "96.63",
+        "timestamp": "1689598500012"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "94.66",
+        "timestamp": "1689598800011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "89.42",
+        "timestamp": "1689599100010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "86.37",
+        "timestamp": "1689599400010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "78.72",
+        "timestamp": "1689599700007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "77.43",
+        "timestamp": "1689600000007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "76.98",
+        "timestamp": "1689600300010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "72",
+        "timestamp": "1689600600004"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "66.3",
+        "timestamp": "1689600900104"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "64.05",
+        "timestamp": "1689601200010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "61.94",
+        "timestamp": "1689601500010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "60.06",
+        "timestamp": "1689601800008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "58.62",
+        "timestamp": "1689602100007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "57.8",
+        "timestamp": "1689602400010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "54.64",
+        "timestamp": "1689602700007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "52.95",
+        "timestamp": "1689603000008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "53.96",
+        "timestamp": "1689603300008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "51.04",
+        "timestamp": "1689603600008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "39.11",
+        "timestamp": "1689603900008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "37.81",
+        "timestamp": "1689604200007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "36.57",
+        "timestamp": "1689604500007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "34.62",
+        "timestamp": "1689604800103"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "35.55",
+        "timestamp": "1689605100010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "35.15",
+        "timestamp": "1689605400011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "32.54",
+        "timestamp": "1689605700011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "34.53",
+        "timestamp": "1689606000012"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "28.6",
+        "timestamp": "1689606300011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "33.93",
+        "timestamp": "1689606600007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "30.38",
+        "timestamp": "1689606900010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "31.32",
+        "timestamp": "1689607200008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "28.91",
+        "timestamp": "1689607500009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "31.69",
+        "timestamp": "1689607800006"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "29.72",
+        "timestamp": "1689608100008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "28.26",
+        "timestamp": "1689608400009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "28.65",
+        "timestamp": "1689608700103"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "26.14",
+        "timestamp": "1689609000011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "37.09",
+        "timestamp": "1689609300008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "26.94",
+        "timestamp": "1689609600007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "31.12",
+        "timestamp": "1689609900008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "29.57",
+        "timestamp": "1689610200010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "25.23",
+        "timestamp": "1689610500007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "29.6",
+        "timestamp": "1689610800009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "28.15",
+        "timestamp": "1689611100008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "23.28",
+        "timestamp": "1689611400007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "27.02",
+        "timestamp": "1689611700008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "22.65",
+        "timestamp": "1689612000009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "27.89",
+        "timestamp": "1689612300009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "26.1",
+        "timestamp": "1689612600104"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "26.14",
+        "timestamp": "1689612900008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "29",
+        "timestamp": "1689613200011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "24.43",
+        "timestamp": "1689613500011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "33.51",
+        "timestamp": "1689613800009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "21.41",
+        "timestamp": "1689614100008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "24.26",
+        "timestamp": "1689614400008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "26.12",
+        "timestamp": "1689614700006"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "25.53",
+        "timestamp": "1689615000010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "25.88",
+        "timestamp": "1689615300011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "35.35",
+        "timestamp": "1689615600008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "27.98",
+        "timestamp": "1689615900009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "20.71",
+        "timestamp": "1689616200009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "24.98",
+        "timestamp": "1689616500103"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "27.95",
+        "timestamp": "1689616800010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "28.27",
+        "timestamp": "1689617100011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputPowerL": "26.92",
+        "timestamp": "1689617400011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "25.1",
+        "timestamp": "1689617700009"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "23.11",
+        "timestamp": "1689618000011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "19.09",
+        "timestamp": "1689618300011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "26.02",
+        "timestamp": "1689618600008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "24.82",
+        "timestamp": "1689618900008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "22.48",
+        "timestamp": "1689619200007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "25.62",
+        "timestamp": "1689619500009"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "22.66",
+        "timestamp": "1689619800009"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "24.08",
+        "timestamp": "1689620100007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "24.33",
+        "timestamp": "1689620400008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "23.65",
+        "timestamp": "1689620700007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "25.34",
+        "timestamp": "1689621000005"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "23.16",
+        "timestamp": "1689621300007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "23.75",
+        "timestamp": "1689621600007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "25.71",
+        "timestamp": "1689621900007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "23.35",
+        "timestamp": "1689622200006"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "23.73",
+        "timestamp": "1689622500005"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "23.7",
+        "timestamp": "1689622800005"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "23.71",
+        "timestamp": "1689623100006"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "23.08",
+        "timestamp": "1689623400005"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "22.94",
+        "timestamp": "1689623700034"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "23.7",
+        "timestamp": "1689624000012"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "22.36",
+        "timestamp": "1689624300011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "22.44",
+        "timestamp": "1689624600011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "23.16",
+        "timestamp": "1689624900011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "24.01",
+        "timestamp": "1689625200009"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "22.22",
+        "timestamp": "1689625500011"
+    },
+    {
+        "weather": "02dw",
+        "PVArrayInputPowerL": "23.75",
+        "timestamp": "1689625800006"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "8.93",
+        "timestamp": "1689626100010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "6.99",
+        "timestamp": "1689626400010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "3.53",
+        "timestamp": "1689626700010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "1.95",
+        "timestamp": "1689627000007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "0.78",
+        "timestamp": "1689627300008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputPowerL": "0.12",
+        "timestamp": "1689627600059"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689627900011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689628200011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689628500009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689628800011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689629100010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689629400008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689629700009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689630000008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689630300011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689630600007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689630900007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689631200009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689631500104"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689631800010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689632100011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689632400011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689632700007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689633000011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689633300007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689633600006"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689633900007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689634200008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689634500007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689634800007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689635100007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689635400103"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689635700011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689636000010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689636300011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689636600010"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689636900007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689637200007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689637500004"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689637800008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689638100009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689638400010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputPowerL": "0",
+        "timestamp": "1689638700007"
+    }
+]
