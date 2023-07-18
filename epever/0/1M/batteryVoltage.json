@@ -1,0 +1,6262 @@
+[
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.82",
+        "timestamp": "1687046400009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1687048200102"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.76",
+        "timestamp": "1687050000005"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.75",
+        "timestamp": "1687051800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1687053600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1687055400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1687057200009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1687059000008"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1687060800005"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1687062600004"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1687064400101"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1687066200009"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1687068000009"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1687069800010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.55",
+        "timestamp": "1687071600009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1687073400010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1687075200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1687077000009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.5",
+        "timestamp": "1687078800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.5",
+        "timestamp": "1687080600102"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.48",
+        "timestamp": "1687082400009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.49",
+        "timestamp": "1687084200005"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.52",
+        "timestamp": "1687086000009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.86",
+        "timestamp": "1687087800009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.53",
+        "timestamp": "1687089600009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.89",
+        "timestamp": "1687091400009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.41",
+        "timestamp": "1687093200008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.4",
+        "timestamp": "1687095000009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.42",
+        "timestamp": "1687096800010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "14.37",
+        "timestamp": "1687098600006"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1687100400103"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.8",
+        "timestamp": "1687102200004"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.83",
+        "timestamp": "1687104000007"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1687105800009"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.8",
+        "timestamp": "1687107600009"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.73",
+        "timestamp": "1687109400009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1687111200009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1687113000009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1687114800011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1687116600009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1687118400010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.1",
+        "timestamp": "1687120200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13.02",
+        "timestamp": "1687122000007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.98",
+        "timestamp": "1687123800056"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.95",
+        "timestamp": "1687125600010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.92",
+        "timestamp": "1687127400008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.88",
+        "timestamp": "1687129200010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.85",
+        "timestamp": "1687131000005"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.82",
+        "timestamp": "1687132800010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.81",
+        "timestamp": "1687134600008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.79",
+        "timestamp": "1687136400008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.75",
+        "timestamp": "1687138200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1687140000009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.72",
+        "timestamp": "1687141800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1687143600010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1687145400009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1687147200102"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1687149000010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1687150800005"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1687152600009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1687154400010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1687156200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1687158000009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.55",
+        "timestamp": "1687159800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1687161600010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1687163400010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1687165200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.5",
+        "timestamp": "1687167000102"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.49",
+        "timestamp": "1687168800005"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.49",
+        "timestamp": "1687170600005"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.48",
+        "timestamp": "1687172400008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.77",
+        "timestamp": "1687174200010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.54",
+        "timestamp": "1687176000009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.88",
+        "timestamp": "1687177800009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.44",
+        "timestamp": "1687179600010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.41",
+        "timestamp": "1687181400009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.33",
+        "timestamp": "1687183200009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.39",
+        "timestamp": "1687185000010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1687186800009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1687188600009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1687190400101"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.82",
+        "timestamp": "1687192200010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1687194000010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1687195800009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1687197600009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1687199400009"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1687201200010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1687203000009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.3",
+        "timestamp": "1687204800009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.08",
+        "timestamp": "1687206600010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "13.01",
+        "timestamp": "1687208400006"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.98",
+        "timestamp": "1687210200009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.93",
+        "timestamp": "1687212000009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.9",
+        "timestamp": "1687213800018"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1687215600010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.85",
+        "timestamp": "1687217400008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.82",
+        "timestamp": "1687219200013"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.81",
+        "timestamp": "1687221000010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1687222800010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.77",
+        "timestamp": "1687224600004"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.74",
+        "timestamp": "1687226400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.72",
+        "timestamp": "1687228200010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1687230000011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1687231800010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.66",
+        "timestamp": "1687233600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1687235400009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1687237200102"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1687239000009"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.6",
+        "timestamp": "1687240800009"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1687242600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1687244400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.55",
+        "timestamp": "1687246200009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1687248000011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1687249800041"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.51",
+        "timestamp": "1687251600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.48",
+        "timestamp": "1687253400009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.48",
+        "timestamp": "1687255200009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.46",
+        "timestamp": "1687257000010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.49",
+        "timestamp": "1687258800010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.81",
+        "timestamp": "1687260600009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.6",
+        "timestamp": "1687262400009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.82",
+        "timestamp": "1687264200009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.42",
+        "timestamp": "1687266000012"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.42",
+        "timestamp": "1687267800009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.41",
+        "timestamp": "1687269600101"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "14.41",
+        "timestamp": "1687271400010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1687273200010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1687275000009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1687276800010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1687278600010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1687280400005"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1687282200015"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.86",
+        "timestamp": "1687284000010"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1687285800102"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.82",
+        "timestamp": "1687287600010"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.66",
+        "timestamp": "1687289400005"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1687291200006"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.08",
+        "timestamp": "1687293000009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "13.03",
+        "timestamp": "1687294800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.98",
+        "timestamp": "1687296600010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.93",
+        "timestamp": "1687298400011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.91",
+        "timestamp": "1687300200009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.89",
+        "timestamp": "1687302000009"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1687303800010"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.84",
+        "timestamp": "1687305600103"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.81",
+        "timestamp": "1687307400006"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1687309200006"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.77",
+        "timestamp": "1687311000009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.74",
+        "timestamp": "1687312800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1687314600010"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.69",
+        "timestamp": "1687316400005"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.69",
+        "timestamp": "1687318200010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1687320000009"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1687321800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1687323600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1687325400010"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": null,
+        "timestamp": "1687327200130"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687329000113"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": null,
+        "timestamp": "1687330800117"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": null,
+        "timestamp": "1687332600106"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": null,
+        "timestamp": "1687334400116"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": null,
+        "timestamp": "1687336200102"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687338000112"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687339800127"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": null,
+        "timestamp": "1687341600178"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687343400115"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687345200106"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687347000130"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687348800126"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687350600117"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687352400098"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": null,
+        "timestamp": "1687354200132"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": null,
+        "timestamp": "1687356000132"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687357800062"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": null,
+        "timestamp": "1687359600116"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": null,
+        "timestamp": "1687361400152"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": null,
+        "timestamp": "1687363200124"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687365000115"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": null,
+        "timestamp": "1687366800128"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": null,
+        "timestamp": "1687368600116"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": null,
+        "timestamp": "1687370400100"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687372200116"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687374000114"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687375800106"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687377600112"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687379400117"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687381200127"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687383000135"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687384800117"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687386600107"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687388400116"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687390200116"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687392000113"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687393800116"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687395600126"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687397400117"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687399200119"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687401000116"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687402800114"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687404600186"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687406400105"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687408200105"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687410000117"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": null,
+        "timestamp": "1687411800113"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687413600117"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687415400110"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687417200106"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687419000115"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687420800065"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687422600105"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687424400131"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": null,
+        "timestamp": "1687426200176"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": null,
+        "timestamp": "1687428000099"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": null,
+        "timestamp": "1687429800115"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687431600104"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687433400118"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687435200129"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687437000106"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687438800119"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687440600130"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687442400178"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": null,
+        "timestamp": "1687444200114"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": null,
+        "timestamp": "1687446000120"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": null,
+        "timestamp": "1687447800110"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": null,
+        "timestamp": "1687449600106"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": null,
+        "timestamp": "1687451400112"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": null,
+        "timestamp": "1687453200117"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687455000116"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": null,
+        "timestamp": "1687456800084"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.36",
+        "timestamp": "1687458600011"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "13.43",
+        "timestamp": "1687460400010"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.07",
+        "timestamp": "1687462200012"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.04",
+        "timestamp": "1687464000011"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "12.97",
+        "timestamp": "1687465800104"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.93",
+        "timestamp": "1687467600009"
+    },
+    {
+        "weather": "11n",
+        "batteryVoltage": "12.88",
+        "timestamp": "1687469400009"
+    },
+    {
+        "weather": "11n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1687471200010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.83",
+        "timestamp": "1687473000009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.82",
+        "timestamp": "1687474800010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1687476600010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.76",
+        "timestamp": "1687478400006"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.75",
+        "timestamp": "1687480200009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.74",
+        "timestamp": "1687482000043"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.71",
+        "timestamp": "1687483800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.69",
+        "timestamp": "1687485600009"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1687487400009"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.66",
+        "timestamp": "1687489200008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1687491000011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1687492800010"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1687494600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.6",
+        "timestamp": "1687496400009"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.6",
+        "timestamp": "1687498200010"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1687500000009"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1687501800104"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1687503600011"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1687505400006"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1687507200009"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1687509000005"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1687510800010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1687512600006"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.5",
+        "timestamp": "1687514400009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.51",
+        "timestamp": "1687516200009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.51",
+        "timestamp": "1687518000068"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.49",
+        "timestamp": "1687519800010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.51",
+        "timestamp": "1687521600009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.49",
+        "timestamp": "1687523400009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.52",
+        "timestamp": "1687525200010"
+    },
+    {
+        "weather": "11d",
+        "batteryVoltage": "12.75",
+        "timestamp": "1687527000010"
+    },
+    {
+        "weather": "11d",
+        "batteryVoltage": "13",
+        "timestamp": "1687528800009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.22",
+        "timestamp": "1687530600009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.39",
+        "timestamp": "1687532400009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.4",
+        "timestamp": "1687534200009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.37",
+        "timestamp": "1687536000010"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.37",
+        "timestamp": "1687537800102"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.33",
+        "timestamp": "1687539600012"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.39",
+        "timestamp": "1687541400006"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.35",
+        "timestamp": "1687543200009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.61",
+        "timestamp": "1687545000006"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.36",
+        "timestamp": "1687546800010"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.5",
+        "timestamp": "1687548600009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.09",
+        "timestamp": "1687550400009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.04",
+        "timestamp": "1687552200009"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.98",
+        "timestamp": "1687554000010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.96",
+        "timestamp": "1687555800011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.91",
+        "timestamp": "1687557600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.88",
+        "timestamp": "1687559400009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1687561200102"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.84",
+        "timestamp": "1687563000006"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.8",
+        "timestamp": "1687564800004"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.79",
+        "timestamp": "1687566600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1687568400009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.76",
+        "timestamp": "1687570200009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.74",
+        "timestamp": "1687572000009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1687573800010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1687575600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1687577400007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.66",
+        "timestamp": "1687579200006"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1687581000005"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1687582800011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.63",
+        "timestamp": "1687584600103"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1687586400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.6",
+        "timestamp": "1687588200010"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1687590000009"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1687591800007"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.55",
+        "timestamp": "1687593600009"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1687595400009"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1687597200010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1687599000010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1687600800011"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "12.52",
+        "timestamp": "1687602600009"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "12.53",
+        "timestamp": "1687604400011"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "12.69",
+        "timestamp": "1687606200009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.39",
+        "timestamp": "1687608000102"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.63",
+        "timestamp": "1687609800009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.43",
+        "timestamp": "1687611600009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.42",
+        "timestamp": "1687613400009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.44",
+        "timestamp": "1687615200005"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "14.43",
+        "timestamp": "1687617000010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1687618800010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.8",
+        "timestamp": "1687620600009"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.72",
+        "timestamp": "1687622400009"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1687624200011"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1687626000009"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1687627800009"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.83",
+        "timestamp": "1687629600005"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.84",
+        "timestamp": "1687631400105"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.9",
+        "timestamp": "1687633200009"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1687635000006"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.71",
+        "timestamp": "1687636800009"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.12",
+        "timestamp": "1687638600009"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "13.06",
+        "timestamp": "1687640400010"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "13.02",
+        "timestamp": "1687642200010"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.98",
+        "timestamp": "1687644000009"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.94",
+        "timestamp": "1687645800010"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.93",
+        "timestamp": "1687647600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.9",
+        "timestamp": "1687649400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.88",
+        "timestamp": "1687651200102"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.86",
+        "timestamp": "1687653000009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.83",
+        "timestamp": "1687654800012"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.81",
+        "timestamp": "1687656600009"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.8",
+        "timestamp": "1687658400102"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1687660200010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.76",
+        "timestamp": "1687662000007"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1687663800005"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1687665600005"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.72",
+        "timestamp": "1687667400102"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1687669200009"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1687671000009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1687672800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1687674600011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1687676400009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1687678200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1687680000005"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1687681800010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1687683600010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1687685400010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.55",
+        "timestamp": "1687687200102"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.57",
+        "timestamp": "1687689000010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.57",
+        "timestamp": "1687690800009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.64",
+        "timestamp": "1687692600009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.41",
+        "timestamp": "1687694400013"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.73",
+        "timestamp": "1687696200009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.47",
+        "timestamp": "1687698000009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.71",
+        "timestamp": "1687699800009"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.56",
+        "timestamp": "1687701600010"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.4",
+        "timestamp": "1687703400010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.42",
+        "timestamp": "1687705200008"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.35",
+        "timestamp": "1687707000102"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.44",
+        "timestamp": "1687708800010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.16",
+        "timestamp": "1687710600007"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "14.39",
+        "timestamp": "1687712400010"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.41",
+        "timestamp": "1687714200009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.43",
+        "timestamp": "1687716000005"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.33",
+        "timestamp": "1687717800005"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.72",
+        "timestamp": "1687719600010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.38",
+        "timestamp": "1687721400010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.15",
+        "timestamp": "1687723200009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.08",
+        "timestamp": "1687725000009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "13.02",
+        "timestamp": "1687726800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.99",
+        "timestamp": "1687728600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.94",
+        "timestamp": "1687730400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.94",
+        "timestamp": "1687732200010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.91",
+        "timestamp": "1687734000102"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.89",
+        "timestamp": "1687735800008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.86",
+        "timestamp": "1687737600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.84",
+        "timestamp": "1687739400009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.82",
+        "timestamp": "1687741200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.79",
+        "timestamp": "1687743000010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.77",
+        "timestamp": "1687744800010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.76",
+        "timestamp": "1687746600012"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.74",
+        "timestamp": "1687748400009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.71",
+        "timestamp": "1687750200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1687752000009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1687753800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1687755600010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.66",
+        "timestamp": "1687757400101"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.63",
+        "timestamp": "1687759200004"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.63",
+        "timestamp": "1687761000006"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.6",
+        "timestamp": "1687762800010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.6",
+        "timestamp": "1687764600006"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1687766400010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1687768200005"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1687770000010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1687771800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1687773600104"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1687775400010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.54",
+        "timestamp": "1687777200010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.75",
+        "timestamp": "1687779000009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.43",
+        "timestamp": "1687780800009"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.73",
+        "timestamp": "1687782600009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.42",
+        "timestamp": "1687784400010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "14.44",
+        "timestamp": "1687786200010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "14.45",
+        "timestamp": "1687788000010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "14.39",
+        "timestamp": "1687789800010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1687791600006"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1687793400007"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1687795200010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1687797000005"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.83",
+        "timestamp": "1687798800011"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1687800600010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1687802400010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1687804200009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1687806000012"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1687807800010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1687809600010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.13",
+        "timestamp": "1687811400009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13.07",
+        "timestamp": "1687813200102"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13.03",
+        "timestamp": "1687815000010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13",
+        "timestamp": "1687816800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.96",
+        "timestamp": "1687818600010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.92",
+        "timestamp": "1687820400009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.92",
+        "timestamp": "1687822200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.89",
+        "timestamp": "1687824000005"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1687825800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.84",
+        "timestamp": "1687827600010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.8",
+        "timestamp": "1687829400010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.79",
+        "timestamp": "1687831200012"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.77",
+        "timestamp": "1687833000102"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.76",
+        "timestamp": "1687834800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.75",
+        "timestamp": "1687836600006"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1687838400011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.71",
+        "timestamp": "1687840200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1687842000010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1687843800007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1687845600011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1687847400010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1687849200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1687851000009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1687852800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1687854600010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1687856400078"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1687858200011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.55",
+        "timestamp": "1687860000010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.54",
+        "timestamp": "1687861800009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.55",
+        "timestamp": "1687863600010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.75",
+        "timestamp": "1687865400009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.49",
+        "timestamp": "1687867200009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1687869000010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.58",
+        "timestamp": "1687870800010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.62",
+        "timestamp": "1687872600012"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.63",
+        "timestamp": "1687874400010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.61",
+        "timestamp": "1687876200102"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.82",
+        "timestamp": "1687878000007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1687879800006"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.8",
+        "timestamp": "1687881600010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1687883400005"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.83",
+        "timestamp": "1687885200011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1687887000009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1687888800011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1687890600009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1687892400005"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.72",
+        "timestamp": "1687894200009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.73",
+        "timestamp": "1687896000008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.13",
+        "timestamp": "1687897800010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13.06",
+        "timestamp": "1687899600105"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13.04",
+        "timestamp": "1687901400009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.99",
+        "timestamp": "1687903200010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.96",
+        "timestamp": "1687905000008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.95",
+        "timestamp": "1687906800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.9",
+        "timestamp": "1687908600011"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.88",
+        "timestamp": "1687910400009"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1687912200010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.84",
+        "timestamp": "1687914000005"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.82",
+        "timestamp": "1687915800009"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.81",
+        "timestamp": "1687917600010"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1687919400009"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.76",
+        "timestamp": "1687921200010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.75",
+        "timestamp": "1687923000100"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1687924800010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.72",
+        "timestamp": "1687926600004"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1687928400009"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1687930200009"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.66",
+        "timestamp": "1687932000008"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1687933800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1687935600012"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1687937400009"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.6",
+        "timestamp": "1687939200013"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1687941000009"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1687942800010"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1687944600009"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.55",
+        "timestamp": "1687946400009"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "12.54",
+        "timestamp": "1687948200009"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "12.54",
+        "timestamp": "1687950000009"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "12.8",
+        "timestamp": "1687951800011"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.48",
+        "timestamp": "1687953600009"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1687955400009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.44",
+        "timestamp": "1687957200008"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.44",
+        "timestamp": "1687959000105"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.37",
+        "timestamp": "1687960800010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "14.35",
+        "timestamp": "1687962600009"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "14.46",
+        "timestamp": "1687964400009"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.85",
+        "timestamp": "1687966200009"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1687968000011"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1687969800005"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.19",
+        "timestamp": "1687971600009"
+    },
+    {
+        "weather": "11d",
+        "batteryVoltage": "13.11",
+        "timestamp": "1687973400009"
+    },
+    {
+        "weather": "11d",
+        "batteryVoltage": "13.54",
+        "timestamp": "1687975200010"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "13.15",
+        "timestamp": "1687977000009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.02",
+        "timestamp": "1687978800009"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "13.01",
+        "timestamp": "1687980600010"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.96",
+        "timestamp": "1687982400104"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.92",
+        "timestamp": "1687984200010"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.9",
+        "timestamp": "1687986000009"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.88",
+        "timestamp": "1687987800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.85",
+        "timestamp": "1687989600009"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.82",
+        "timestamp": "1687991400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.81",
+        "timestamp": "1687993200009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.77",
+        "timestamp": "1687995000010"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.74",
+        "timestamp": "1687996800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1687998600029"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.72",
+        "timestamp": "1688000400029"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.71",
+        "timestamp": "1688002200102"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.69",
+        "timestamp": "1688004000009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1688005800010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.8",
+        "timestamp": "1688347800014"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.79",
+        "timestamp": "1688349600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.77",
+        "timestamp": "1688351400008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1688353200010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1688355000008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.72",
+        "timestamp": "1688356800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1688358600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1688360400007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.66",
+        "timestamp": "1688362200007"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1688364000012"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1688365800007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1688367600012"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1688369400007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1688371200104"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1688373000007"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1688374800007"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.55",
+        "timestamp": "1688376600007"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1688378400008"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1688380200013"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "12.54",
+        "timestamp": "1688382000008"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "12.75",
+        "timestamp": "1688383800012"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.51",
+        "timestamp": "1688385600009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.82",
+        "timestamp": "1688387400011"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.4",
+        "timestamp": "1688389200007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.44",
+        "timestamp": "1688391000010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.44",
+        "timestamp": "1688392800007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.43",
+        "timestamp": "1688394600103"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1688396400010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.83",
+        "timestamp": "1688398200009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1688400000011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.84",
+        "timestamp": "1688401800006"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1688403600007"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1688405400007"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1688407200011"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1688409000007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1688410800012"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1688412600010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.71",
+        "timestamp": "1688414400010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.22",
+        "timestamp": "1688416200010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13.05",
+        "timestamp": "1688418000103"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13.01",
+        "timestamp": "1688419800007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.97",
+        "timestamp": "1688421600006"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.96",
+        "timestamp": "1688423400010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.93",
+        "timestamp": "1688425200007"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.9",
+        "timestamp": "1688427000007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1688428800010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.84",
+        "timestamp": "1688430600012"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.82",
+        "timestamp": "1688432400007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.8",
+        "timestamp": "1688434200011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1688436000007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.77",
+        "timestamp": "1688437800011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.75",
+        "timestamp": "1688439600010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1688441400105"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.71",
+        "timestamp": "1688443200010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1688445000007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.69",
+        "timestamp": "1688446800008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.66",
+        "timestamp": "1688448600007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1688450400011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1688452200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1688454000012"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1688455800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1688457600011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1688459400007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.55",
+        "timestamp": "1688461200012"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.55",
+        "timestamp": "1688463000007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1688464800103"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.52",
+        "timestamp": "1688466600011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.53",
+        "timestamp": "1688468400009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.76",
+        "timestamp": "1688470200010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.5",
+        "timestamp": "1688472000007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.89",
+        "timestamp": "1688473800011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.42",
+        "timestamp": "1688475600007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.41",
+        "timestamp": "1688477400011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.43",
+        "timestamp": "1688479200007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.4",
+        "timestamp": "1688481000105"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1688482800011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1688484600007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1688486400011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1688488200007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1688490000012"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1688491800007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1688493600011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.83",
+        "timestamp": "1688495400006"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.72",
+        "timestamp": "1688497200011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1688499000006"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1688500800012"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.19",
+        "timestamp": "1688502600008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13.04",
+        "timestamp": "1688504400010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13.02",
+        "timestamp": "1688506200007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.96",
+        "timestamp": "1688508000081"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.96",
+        "timestamp": "1688509800008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.92",
+        "timestamp": "1688511600007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.89",
+        "timestamp": "1688513400011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1688515200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.85",
+        "timestamp": "1688517000011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.82",
+        "timestamp": "1688518800009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.8",
+        "timestamp": "1688520600011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1688522400008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.75",
+        "timestamp": "1688524200011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.74",
+        "timestamp": "1688526000007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.71",
+        "timestamp": "1688527800012"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1688529600007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1688531400056"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.66",
+        "timestamp": "1688533200009"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1688535000006"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1688536800011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1688538600007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1688540400011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1688542200007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1688544000012"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1688545800007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1688547600081"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1688549400008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.51",
+        "timestamp": "1688551200007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.49",
+        "timestamp": "1688553000010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.5",
+        "timestamp": "1688554800009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.74",
+        "timestamp": "1688556600011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.49",
+        "timestamp": "1688558400011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.84",
+        "timestamp": "1688560200010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.43",
+        "timestamp": "1688562000010"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.46",
+        "timestamp": "1688563800011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.45",
+        "timestamp": "1688565600007"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.41",
+        "timestamp": "1688567400011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.83",
+        "timestamp": "1688569200008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1688571000076"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1688572800012"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1688574600009"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1688576400008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.72",
+        "timestamp": "1688578200008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.84",
+        "timestamp": "1688580000011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1688581800009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1688583600011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1688585400008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.73",
+        "timestamp": "1688587200011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.19",
+        "timestamp": "1688589000011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13.05",
+        "timestamp": "1688590800011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13.02",
+        "timestamp": "1688592600007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.99",
+        "timestamp": "1688594400091"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.95",
+        "timestamp": "1688596200008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.93",
+        "timestamp": "1688598000015"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.89",
+        "timestamp": "1688599800010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1688601600008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.84",
+        "timestamp": "1688603400011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.8",
+        "timestamp": "1688605200007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.8",
+        "timestamp": "1688607000010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.77",
+        "timestamp": "1688608800007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.76",
+        "timestamp": "1688610600011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.74",
+        "timestamp": "1688612400010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.71",
+        "timestamp": "1688614200011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1688616000011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1688617800011"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1688619600010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1688621400077"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1688623200011"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1688625000008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1688626800012"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1688628600004"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1688630400011"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.55",
+        "timestamp": "1688632200009"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1688634000007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1688635800008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.5",
+        "timestamp": "1688637600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.51",
+        "timestamp": "1688639400007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.52",
+        "timestamp": "1688641200011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.86",
+        "timestamp": "1688643000008"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.48",
+        "timestamp": "1688644800100"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.85",
+        "timestamp": "1688646600007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.86",
+        "timestamp": "1688648400006"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.82",
+        "timestamp": "1688650200011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.43",
+        "timestamp": "1688652000010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.38",
+        "timestamp": "1688653800011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.31",
+        "timestamp": "1688655600007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.34",
+        "timestamp": "1688657400011"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1688659200008"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1688661000040"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1688662800008"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.84",
+        "timestamp": "1688664600008"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1688666400011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.73",
+        "timestamp": "1688668200008"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.73",
+        "timestamp": "1688670000010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.84",
+        "timestamp": "1688671800009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.4",
+        "timestamp": "1688673600012"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.06",
+        "timestamp": "1688675400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "13.03",
+        "timestamp": "1688677200012"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.99",
+        "timestamp": "1688679000015"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.96",
+        "timestamp": "1688680800103"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.93",
+        "timestamp": "1688682600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.89",
+        "timestamp": "1688684400008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1688686200011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.85",
+        "timestamp": "1688688000009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.82",
+        "timestamp": "1688689800011"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.8",
+        "timestamp": "1688691600008"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1688693400011"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.76",
+        "timestamp": "1688695200008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.74",
+        "timestamp": "1688697000007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.72",
+        "timestamp": "1688698800010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.69",
+        "timestamp": "1688700600010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1688702400008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1688704200104"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1688706000008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1688707800010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1688709600008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1688711400009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1688713200011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1688715000007"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1688716800011"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1688718600006"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1688720400012"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.51",
+        "timestamp": "1688722200007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.49",
+        "timestamp": "1688724000105"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.49",
+        "timestamp": "1688725800012"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.49",
+        "timestamp": "1688727600007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.49",
+        "timestamp": "1688729400008"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.5",
+        "timestamp": "1688731200007"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.58",
+        "timestamp": "1688733000004"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.15",
+        "timestamp": "1688734800007"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "13.09",
+        "timestamp": "1688736600013"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "13.1",
+        "timestamp": "1688738400008"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.11",
+        "timestamp": "1688740200011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.18",
+        "timestamp": "1688742000009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.57",
+        "timestamp": "1688743800103"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.55",
+        "timestamp": "1688745600011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.48",
+        "timestamp": "1688747400010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.52",
+        "timestamp": "1688749200011"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "13.42",
+        "timestamp": "1688751000006"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.03",
+        "timestamp": "1688752800011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.91",
+        "timestamp": "1688754600009"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.86",
+        "timestamp": "1688756400011"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.82",
+        "timestamp": "1688758200008"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.79",
+        "timestamp": "1688760000007"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.75",
+        "timestamp": "1688761800011"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1688763600007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.69",
+        "timestamp": "1688765400007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1688767200103"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.63",
+        "timestamp": "1688769000011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.6",
+        "timestamp": "1688770800007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1688772600010"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1688774400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.51",
+        "timestamp": "1688776200011"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.49",
+        "timestamp": "1688778000008"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.48",
+        "timestamp": "1688779800008"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.46",
+        "timestamp": "1688781600010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.46",
+        "timestamp": "1688783400011"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.43",
+        "timestamp": "1688785200007"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.45",
+        "timestamp": "1688787000012"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.43",
+        "timestamp": "1688788800007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.42",
+        "timestamp": "1688790600103"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.43",
+        "timestamp": "1688792400011"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.43",
+        "timestamp": "1688794200008"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.41",
+        "timestamp": "1688796000012"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.41",
+        "timestamp": "1688797800008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.42",
+        "timestamp": "1688799600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.4",
+        "timestamp": "1688801400007"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.41",
+        "timestamp": "1688803200011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.41",
+        "timestamp": "1688805000007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.41",
+        "timestamp": "1688806800011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.4",
+        "timestamp": "1688808600008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.41",
+        "timestamp": "1688810400056"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.41",
+        "timestamp": "1688812200012"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.43",
+        "timestamp": "1688814000009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.45",
+        "timestamp": "1688815800009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.51",
+        "timestamp": "1688817600008"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1688819400011"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.35",
+        "timestamp": "1688821200007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.7",
+        "timestamp": "1688823000012"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.49",
+        "timestamp": "1688824800007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.38",
+        "timestamp": "1688826600104"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.36",
+        "timestamp": "1688828400010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1688830200007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1688832000011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1688833800010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1688835600008"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.85",
+        "timestamp": "1688837400008"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1688839200011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1688841000006"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1688842800011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.83",
+        "timestamp": "1688844600006"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.36",
+        "timestamp": "1688846400004"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.1",
+        "timestamp": "1688848200011"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "13.03",
+        "timestamp": "1688850000102"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "13.01",
+        "timestamp": "1688851800010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.97",
+        "timestamp": "1688853600009"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.95",
+        "timestamp": "1688855400010"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.92",
+        "timestamp": "1688857200007"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.9",
+        "timestamp": "1688859000011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1688860800008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.84",
+        "timestamp": "1688862600011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.83",
+        "timestamp": "1688864400007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.79",
+        "timestamp": "1688866200007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1688868000006"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.75",
+        "timestamp": "1688869800012"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.75",
+        "timestamp": "1688871600007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.72",
+        "timestamp": "1688873400063"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.71",
+        "timestamp": "1688875200008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1688877000008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1688878800011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1688880600008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1688882400011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1688884200007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1688886000011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1688887800010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1688889600011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1688891400008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1688893200010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1688895000007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1688896800103"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1688898600011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.56",
+        "timestamp": "1688900400008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.73",
+        "timestamp": "1688902200011"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.29",
+        "timestamp": "1688904000009"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.71",
+        "timestamp": "1688905800011"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.7",
+        "timestamp": "1688907600010"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.47",
+        "timestamp": "1688909400008"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.35",
+        "timestamp": "1688911200007"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.86",
+        "timestamp": "1688913000011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.32",
+        "timestamp": "1688914800009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.32",
+        "timestamp": "1688916600011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1688918400007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.87",
+        "timestamp": "1688920200103"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1688922000010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.83",
+        "timestamp": "1688923800007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1688925600010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1688927400008"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.8",
+        "timestamp": "1688929200007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1688931000007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.35",
+        "timestamp": "1688932800011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.08",
+        "timestamp": "1688934600010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "13.01",
+        "timestamp": "1688936400011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.97",
+        "timestamp": "1688938200003"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.95",
+        "timestamp": "1688940000009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.92",
+        "timestamp": "1688941800011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.89",
+        "timestamp": "1688943600095"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1688945400010"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.83",
+        "timestamp": "1688947200007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.81",
+        "timestamp": "1688949000012"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.8",
+        "timestamp": "1688950800007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1688952600006"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.76",
+        "timestamp": "1688954400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1688956200011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.71",
+        "timestamp": "1688958000007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1688959800010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1688961600007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.66",
+        "timestamp": "1688963400011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1688965200007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.63",
+        "timestamp": "1688967000103"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1688968800010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.6",
+        "timestamp": "1688970600010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1688972400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1688974200010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1688976000010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1688977800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1688979600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1688981400008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.51",
+        "timestamp": "1688983200010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.49",
+        "timestamp": "1688985000012"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.52",
+        "timestamp": "1688986800011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.53",
+        "timestamp": "1688988600007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.11",
+        "timestamp": "1688990400103"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": "13.16",
+        "timestamp": "1688992200011"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": "13.12",
+        "timestamp": "1688994000007"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": "13.07",
+        "timestamp": "1688995800007"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": "13.2",
+        "timestamp": "1688997600008"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "13.21",
+        "timestamp": "1688999400011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.51",
+        "timestamp": "1689001200009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.55",
+        "timestamp": "1689003000011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.64",
+        "timestamp": "1689004800010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.23",
+        "timestamp": "1689006600010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.56",
+        "timestamp": "1689008400006"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.04",
+        "timestamp": "1689010200104"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.63",
+        "timestamp": "1689012000007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.31",
+        "timestamp": "1689013800009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.04",
+        "timestamp": "1689015600007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.99",
+        "timestamp": "1689017400010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.01",
+        "timestamp": "1689019200011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.87",
+        "timestamp": "1689021000009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.83",
+        "timestamp": "1689022800008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.79",
+        "timestamp": "1689024600007"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1689026400011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.75",
+        "timestamp": "1689028200010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.72",
+        "timestamp": "1689030000011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1689031800008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1689033600103"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1689035400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1689037200007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1689039000010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1689040800007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1689042600004"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1689044400009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1689046200010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.51",
+        "timestamp": "1689048000010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.5",
+        "timestamp": "1689049800011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.48",
+        "timestamp": "1689051600008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.47",
+        "timestamp": "1689053400011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.45",
+        "timestamp": "1689055200008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.46",
+        "timestamp": "1689057000086"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.46",
+        "timestamp": "1689058800007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.45",
+        "timestamp": "1689060600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.45",
+        "timestamp": "1689062400008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.44",
+        "timestamp": "1689064200007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.44",
+        "timestamp": "1689066000010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.44",
+        "timestamp": "1689067800007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.44",
+        "timestamp": "1689069600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.42",
+        "timestamp": "1689071400007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.43",
+        "timestamp": "1689073200011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.48",
+        "timestamp": "1689075000007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.87",
+        "timestamp": "1689076800011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1689078600011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.34",
+        "timestamp": "1689080400103"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.41",
+        "timestamp": "1689082200012"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.85",
+        "timestamp": "1689084000009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.69",
+        "timestamp": "1689085800011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.45",
+        "timestamp": "1689087600009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.5",
+        "timestamp": "1689089400011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.38",
+        "timestamp": "1689091200010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.48",
+        "timestamp": "1689093000010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.13",
+        "timestamp": "1689094800006"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.35",
+        "timestamp": "1689096600011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.35",
+        "timestamp": "1689098400009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.59",
+        "timestamp": "1689100200011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.54",
+        "timestamp": "1689102000007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1689103800034"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.35",
+        "timestamp": "1689105600007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.97",
+        "timestamp": "1689107400009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.93",
+        "timestamp": "1689109200011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1689111000007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.85",
+        "timestamp": "1689112800010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.82",
+        "timestamp": "1689114600008"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.79",
+        "timestamp": "1689116400012"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.77",
+        "timestamp": "1689118200010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.74",
+        "timestamp": "1689120000011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1689121800008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.69",
+        "timestamp": "1689123600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.69",
+        "timestamp": "1689125400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1689127200103"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1689129000010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.63",
+        "timestamp": "1689130800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.6",
+        "timestamp": "1689132600010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1689134400009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1689136200007"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1689138000011"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1689139800011"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1689141600010"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1689143400012"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.51",
+        "timestamp": "1689145200009"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.49",
+        "timestamp": "1689147000010"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.48",
+        "timestamp": "1689148800011"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.47",
+        "timestamp": "1689150600090"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.47",
+        "timestamp": "1689152400010"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.44",
+        "timestamp": "1689154200007"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.44",
+        "timestamp": "1689156000010"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.43",
+        "timestamp": "1689157800010"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.42",
+        "timestamp": "1689159600012"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.41",
+        "timestamp": "1689161400007"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.42",
+        "timestamp": "1689163200011"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.41",
+        "timestamp": "1689165000008"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.42",
+        "timestamp": "1689166800012"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.47",
+        "timestamp": "1689168600007"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.43",
+        "timestamp": "1689170400036"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": "12.74",
+        "timestamp": "1689172200009"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.44",
+        "timestamp": "1689174000004"
+    },
+    {
+        "weather": "11d",
+        "batteryVoltage": "12.44",
+        "timestamp": "1689175800006"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": "12.86",
+        "timestamp": "1689177600009"
+    },
+    {
+        "weather": "11d",
+        "batteryVoltage": "12.96",
+        "timestamp": "1689179400008"
+    },
+    {
+        "weather": "11d",
+        "batteryVoltage": "12.55",
+        "timestamp": "1689181200007"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.4",
+        "timestamp": "1689183000011"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.39",
+        "timestamp": "1689184800010"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "12.41",
+        "timestamp": "1689186600011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.38",
+        "timestamp": "1689188400007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.48",
+        "timestamp": "1689190200012"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.44",
+        "timestamp": "1689192000010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.4",
+        "timestamp": "1689193800103"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.36",
+        "timestamp": "1689195600010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.35",
+        "timestamp": "1689197400007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.36",
+        "timestamp": "1689199200011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.36",
+        "timestamp": "1689201000008"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.35",
+        "timestamp": "1689202800010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.34",
+        "timestamp": "1689204600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.36",
+        "timestamp": "1689206400011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.36",
+        "timestamp": "1689208200007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.35",
+        "timestamp": "1689210000011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.34",
+        "timestamp": "1689211800007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.35",
+        "timestamp": "1689213600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.34",
+        "timestamp": "1689215400011"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.34",
+        "timestamp": "1689217200102"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.35",
+        "timestamp": "1689219000007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.35",
+        "timestamp": "1689220800010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.33",
+        "timestamp": "1689222600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.35",
+        "timestamp": "1689224400009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.33",
+        "timestamp": "1689226200011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.33",
+        "timestamp": "1689228000005"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.32",
+        "timestamp": "1689229800011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.32",
+        "timestamp": "1689231600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.32",
+        "timestamp": "1689233400011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.32",
+        "timestamp": "1689235200007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.33",
+        "timestamp": "1689237000008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.33",
+        "timestamp": "1689238800012"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.32",
+        "timestamp": "1689240600007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.31",
+        "timestamp": "1689242400012"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.33",
+        "timestamp": "1689244200008"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.33",
+        "timestamp": "1689246000010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.35",
+        "timestamp": "1689247800007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.07",
+        "timestamp": "1689249600011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.09",
+        "timestamp": "1689251400007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.11",
+        "timestamp": "1689253200005"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.26",
+        "timestamp": "1689255000010"
+    },
+    {
+        "weather": "10d",
+        "batteryVoltage": "13.54",
+        "timestamp": "1689256800103"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": "13.32",
+        "timestamp": "1689258600008"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": "13.63",
+        "timestamp": "1689260400007"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": "13.83",
+        "timestamp": "1689262200010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.31",
+        "timestamp": "1689264000009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.56",
+        "timestamp": "1689265800012"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.41",
+        "timestamp": "1689267600011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.82",
+        "timestamp": "1689269400011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.02",
+        "timestamp": "1689271200008"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.46",
+        "timestamp": "1689273000011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.21",
+        "timestamp": "1689274800010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.96",
+        "timestamp": "1689276600103"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.9",
+        "timestamp": "1689278400004"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.94",
+        "timestamp": "1689280200008"
+    },
+    {
+        "weather": "10n",
+        "batteryVoltage": "12.84",
+        "timestamp": "1689282000011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.8",
+        "timestamp": "1689283800008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1689285600008"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.75",
+        "timestamp": "1689287400007"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.72",
+        "timestamp": "1689289200013"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.71",
+        "timestamp": "1689291000009"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.69",
+        "timestamp": "1689292800011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1689294600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1689296400011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.63",
+        "timestamp": "1689298200007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1689300000031"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1689301800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1689303600007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1689305400012"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1689307200009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1689309000011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1689310800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1689312600012"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1689314400010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1689316200010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.51",
+        "timestamp": "1689318000007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.49",
+        "timestamp": "1689319800101"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.49",
+        "timestamp": "1689321600010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.48",
+        "timestamp": "1689323400008"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.46",
+        "timestamp": "1689325200007"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.46",
+        "timestamp": "1689327000008"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.45",
+        "timestamp": "1689328800011"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.45",
+        "timestamp": "1689330600008"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "12.45",
+        "timestamp": "1689332400007"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "12.48",
+        "timestamp": "1689334200007"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "12.86",
+        "timestamp": "1689336000007"
+    },
+    {
+        "weather": "50d",
+        "batteryVoltage": "13.1",
+        "timestamp": "1689337800010"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.4",
+        "timestamp": "1689339600007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1689341400012"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.57",
+        "timestamp": "1689343200007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1689345000051"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.96",
+        "timestamp": "1689346800011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.4",
+        "timestamp": "1689348600009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.87",
+        "timestamp": "1689350400010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.42",
+        "timestamp": "1689352200011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1689354000011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1689355800007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.7",
+        "timestamp": "1689357600012"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.84",
+        "timestamp": "1689359400011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1689361200108"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.88",
+        "timestamp": "1689363000006"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.32",
+        "timestamp": "1689364800006"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.38",
+        "timestamp": "1689366600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "13.03",
+        "timestamp": "1689368400007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.98",
+        "timestamp": "1689370200011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.96",
+        "timestamp": "1689372000009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.91",
+        "timestamp": "1689373800011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.89",
+        "timestamp": "1689375600010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.87",
+        "timestamp": "1689377400012"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.85",
+        "timestamp": "1689379200007"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.83",
+        "timestamp": "1689381000011"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.81",
+        "timestamp": "1689382800008"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1689384600105"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.77",
+        "timestamp": "1689386400011"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.74",
+        "timestamp": "1689388200007"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.71",
+        "timestamp": "1689390000010"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1689391800008"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1689393600011"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1689395400007"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1689397200010"
+    },
+    {
+        "weather": "02n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1689399000010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.63",
+        "timestamp": "1689400800011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.63",
+        "timestamp": "1689402600007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.61",
+        "timestamp": "1689404400010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.6",
+        "timestamp": "1689406200010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1689408000104"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1689409800011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.55",
+        "timestamp": "1689411600007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.54",
+        "timestamp": "1689413400007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1689415200008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.54",
+        "timestamp": "1689417000012"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.53",
+        "timestamp": "1689418800010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "12.83",
+        "timestamp": "1689420600011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.59",
+        "timestamp": "1689422400009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.27",
+        "timestamp": "1689424200011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.42",
+        "timestamp": "1689426000008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.42",
+        "timestamp": "1689427800071"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.35",
+        "timestamp": "1689429600011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.38",
+        "timestamp": "1689431400008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1689433200010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.82",
+        "timestamp": "1689435000008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1689436800010"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1689438600009"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1689440400011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1689442200010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.86",
+        "timestamp": "1689444000010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1689445800007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.84",
+        "timestamp": "1689447600011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1689449400007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1689451200104"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.14",
+        "timestamp": "1689453000011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "13.03",
+        "timestamp": "1689454800007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.98",
+        "timestamp": "1689456600010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.94",
+        "timestamp": "1689458400010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.92",
+        "timestamp": "1689460200011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.9",
+        "timestamp": "1689462000010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.88",
+        "timestamp": "1689463800011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.85",
+        "timestamp": "1689465600008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.84",
+        "timestamp": "1689467400011"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.81",
+        "timestamp": "1689469200008"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.79",
+        "timestamp": "1689471000010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.77",
+        "timestamp": "1689472800010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.75",
+        "timestamp": "1689474600105"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.74",
+        "timestamp": "1689476400009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.72",
+        "timestamp": "1689478200010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.69",
+        "timestamp": "1689480000008"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.69",
+        "timestamp": "1689481800008"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1689483600010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1689485400010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.65",
+        "timestamp": "1689487200011"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.62",
+        "timestamp": "1689489000010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1689490800011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.58",
+        "timestamp": "1689492600009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1689494400011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1689496200010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.55",
+        "timestamp": "1689498000071"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.52",
+        "timestamp": "1689499800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1689501600009"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.53",
+        "timestamp": "1689503400011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.53",
+        "timestamp": "1689505200006"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.83",
+        "timestamp": "1689507000010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.56",
+        "timestamp": "1689508800007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.09",
+        "timestamp": "1689510600010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "14.42",
+        "timestamp": "1689512400007"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.33",
+        "timestamp": "1689514200010"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.38",
+        "timestamp": "1689516000007"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.39",
+        "timestamp": "1689517800092"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "14.36",
+        "timestamp": "1689519600011"
+    },
+    {
+        "weather": "03d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1689521400009"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.83",
+        "timestamp": "1689523200010"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1689525000008"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.8",
+        "timestamp": "1689526800007"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.78",
+        "timestamp": "1689528600007"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.76",
+        "timestamp": "1689530400011"
+    },
+    {
+        "weather": "02d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1689532200009"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1689534000011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1689535800008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.77",
+        "timestamp": "1689537600011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.16",
+        "timestamp": "1689539400010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13.05",
+        "timestamp": "1689541200081"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "13",
+        "timestamp": "1689543000007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.97",
+        "timestamp": "1689544800007"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.95",
+        "timestamp": "1689546600011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.92",
+        "timestamp": "1689548400008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.9",
+        "timestamp": "1689550200008"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.88",
+        "timestamp": "1689552000010"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.85",
+        "timestamp": "1689553800035"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.83",
+        "timestamp": "1689555600011"
+    },
+    {
+        "weather": "01n",
+        "batteryVoltage": "12.81",
+        "timestamp": "1689557400008"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.78",
+        "timestamp": "1689559200011"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.77",
+        "timestamp": "1689561000010"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.71",
+        "timestamp": "1689562800004"
+    },
+    {
+        "weather": "03n",
+        "batteryVoltage": "12.73",
+        "timestamp": "1689564600010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.7",
+        "timestamp": "1689566400011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.68",
+        "timestamp": "1689568200006"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.67",
+        "timestamp": "1689570000011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.66",
+        "timestamp": "1689571800008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.64",
+        "timestamp": "1689573600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.6",
+        "timestamp": "1689575400006"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.6",
+        "timestamp": "1689577200104"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.59",
+        "timestamp": "1689579000011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.57",
+        "timestamp": "1689580800009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.56",
+        "timestamp": "1689582600011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1689584400007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.53",
+        "timestamp": "1689586200011"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.51",
+        "timestamp": "1689588000007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.51",
+        "timestamp": "1689589800011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.52",
+        "timestamp": "1689591600010"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "12.77",
+        "timestamp": "1689593400101"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.41",
+        "timestamp": "1689595200011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.69",
+        "timestamp": "1689597000007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.26",
+        "timestamp": "1689598800011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.41",
+        "timestamp": "1689600600007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.47",
+        "timestamp": "1689602400006"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "14.43",
+        "timestamp": "1689604200010"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1689606000012"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.81",
+        "timestamp": "1689607800007"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1689609600011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.82",
+        "timestamp": "1689611400008"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.88",
+        "timestamp": "1689613200011"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.84",
+        "timestamp": "1689615000008"
+    },
+    {
+        "weather": "01d",
+        "batteryVoltage": "13.9",
+        "timestamp": "1689616800103"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.74",
+        "timestamp": "1689618600011"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.79",
+        "timestamp": "1689620400007"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.75",
+        "timestamp": "1689622200006"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.86",
+        "timestamp": "1689624000011"
+    },
+    {
+        "weather": "02dw",
+        "batteryVoltage": "13.4",
+        "timestamp": "1689625800008"
+    },
+    {
+        "weather": "04d",
+        "batteryVoltage": "13.05",
+        "timestamp": "1689627600104"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "13.01",
+        "timestamp": "1689629400007"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.97",
+        "timestamp": "1689631200009"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.94",
+        "timestamp": "1689633000012"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.91",
+        "timestamp": "1689634800008"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.89",
+        "timestamp": "1689636600010"
+    },
+    {
+        "weather": "04n",
+        "batteryVoltage": "12.86",
+        "timestamp": "1689638400010"
+    }
+]

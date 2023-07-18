@@ -1,0 +1,1442 @@
+[
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.22",
+        "timestamp": "1689552000010"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.22",
+        "timestamp": "1689552300007"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689552600010"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689552900007"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689553200010"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689553500033"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689553800035"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.23",
+        "timestamp": "1689554100011"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689554400011"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689554700010"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689555000010"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689555300012"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689555600011"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689555900009"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689556200007"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689556500009"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689556800010"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689557100007"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689557400008"
+    },
+    {
+        "weather": "01n",
+        "PVArrayInputVoltage": "0.23",
+        "timestamp": "1689557700103"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.23",
+        "timestamp": "1689558000011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689558300010"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689558600011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689558900011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689559200011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.18",
+        "timestamp": "1689559500011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.18",
+        "timestamp": "1689559800010"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689560100010"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.18",
+        "timestamp": "1689560400007"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.17",
+        "timestamp": "1689560700007"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.18",
+        "timestamp": "1689561000010"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689561300007"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689561600022"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689561900010"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689562200011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689562500011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689562800004"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689563100011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689563400011"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689563700007"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689564000007"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689564300007"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689564600010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689564900007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689565200007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689565500074"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689565800011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689566100010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689566400011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689566700010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689567000011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689567300011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689567600008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689567900008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689568200006"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689568500007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689568800007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689569100008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689569400103"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689569700011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689570000011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689570300011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689570600011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689570900010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.22",
+        "timestamp": "1689571200011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.22",
+        "timestamp": "1689571500006"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689571800008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689572100007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689572400007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689572700006"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689573000007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689573300076"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689573600011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689573900011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689574200011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689574500012"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689574800011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689575100011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689575400006"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689575700010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689576000007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689576300007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689576600007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689576900007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689577200104"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689577500039"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689577800011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689578100012"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689578400011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689578700012"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689579000011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689579300007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689579600010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689579900008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689580200007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689580500008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689580800009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689581100008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689581400007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689581700102"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689582000010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689582300011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689582600011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.22",
+        "timestamp": "1689582900011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689583200006"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689583500009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.22",
+        "timestamp": "1689583800010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.22",
+        "timestamp": "1689584100007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689584400007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689584700010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689585000007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689585300009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689585600103"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689585900011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689586200011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.23",
+        "timestamp": "1689586500011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.29",
+        "timestamp": "1689586800011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.4",
+        "timestamp": "1689587100011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.71",
+        "timestamp": "1689587400007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "1.5",
+        "timestamp": "1689587700008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "3.4",
+        "timestamp": "1689588000007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "8.23",
+        "timestamp": "1689588300007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "12.39",
+        "timestamp": "1689588600008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "12.48",
+        "timestamp": "1689588900007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "12.56",
+        "timestamp": "1689589200007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "18.48",
+        "timestamp": "1689589500096"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "13.65",
+        "timestamp": "1689589800011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "13.69",
+        "timestamp": "1689590100011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "13.72",
+        "timestamp": "1689590400011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "13.74",
+        "timestamp": "1689590700011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "13.75",
+        "timestamp": "1689591000011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "13.78",
+        "timestamp": "1689591300011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "13.78",
+        "timestamp": "1689591600010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "13.77",
+        "timestamp": "1689591900008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "13.79",
+        "timestamp": "1689592200008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "13.85",
+        "timestamp": "1689592500008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "13.88",
+        "timestamp": "1689592800007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "14.02",
+        "timestamp": "1689593100007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "39.31",
+        "timestamp": "1689593400101"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "39.13",
+        "timestamp": "1689593700011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "38.73",
+        "timestamp": "1689594000011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "38.96",
+        "timestamp": "1689594300011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "38.92",
+        "timestamp": "1689594600011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "38.86",
+        "timestamp": "1689594900007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "37.01",
+        "timestamp": "1689595200011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "37.53",
+        "timestamp": "1689595500008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "38.27",
+        "timestamp": "1689595800008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "38.38",
+        "timestamp": "1689596100007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "38.51",
+        "timestamp": "1689596400008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "37.97",
+        "timestamp": "1689596700009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "37.8",
+        "timestamp": "1689597000007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "36.41",
+        "timestamp": "1689597300101"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "38.56",
+        "timestamp": "1689597600011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "37.72",
+        "timestamp": "1689597900011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "37.67",
+        "timestamp": "1689598200011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "38.4",
+        "timestamp": "1689598500011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "32.96",
+        "timestamp": "1689598800011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "36.95",
+        "timestamp": "1689599100011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "39.64",
+        "timestamp": "1689599400007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "39.73",
+        "timestamp": "1689599700007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.89",
+        "timestamp": "1689600000010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.55",
+        "timestamp": "1689600300006"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.25",
+        "timestamp": "1689600600007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.97",
+        "timestamp": "1689600900006"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.02",
+        "timestamp": "1689601200102"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.07",
+        "timestamp": "1689601500011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.12",
+        "timestamp": "1689601800010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.11",
+        "timestamp": "1689602100010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.21",
+        "timestamp": "1689602400006"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.12",
+        "timestamp": "1689602700011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "41.01",
+        "timestamp": "1689603000011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.78",
+        "timestamp": "1689603300011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.79",
+        "timestamp": "1689603600010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.99",
+        "timestamp": "1689603900008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.03",
+        "timestamp": "1689604200010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.93",
+        "timestamp": "1689604500009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.58",
+        "timestamp": "1689604800009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.62",
+        "timestamp": "1689605100103"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.71",
+        "timestamp": "1689605400011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.89",
+        "timestamp": "1689605700012"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.99",
+        "timestamp": "1689606000012"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "39.79",
+        "timestamp": "1689606300010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "41.4",
+        "timestamp": "1689606600010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.68",
+        "timestamp": "1689606900011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.59",
+        "timestamp": "1689607200009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.63",
+        "timestamp": "1689607500011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.82",
+        "timestamp": "1689607800007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.56",
+        "timestamp": "1689608100009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.34",
+        "timestamp": "1689608400009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.6",
+        "timestamp": "1689608700008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.25",
+        "timestamp": "1689609000103"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "39.35",
+        "timestamp": "1689609300009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.24",
+        "timestamp": "1689609600011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.56",
+        "timestamp": "1689609900010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.45",
+        "timestamp": "1689610200012"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "42.26",
+        "timestamp": "1689610500012"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.68",
+        "timestamp": "1689610800009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.81",
+        "timestamp": "1689611100008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "42.22",
+        "timestamp": "1689611400008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.18",
+        "timestamp": "1689611700007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.39",
+        "timestamp": "1689612000007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.19",
+        "timestamp": "1689612300009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.78",
+        "timestamp": "1689612600006"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.08",
+        "timestamp": "1689612900096"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "42.38",
+        "timestamp": "1689613200011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.63",
+        "timestamp": "1689613500011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "41.36",
+        "timestamp": "1689613800011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.82",
+        "timestamp": "1689614100007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.5",
+        "timestamp": "1689614400011"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.07",
+        "timestamp": "1689614700006"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "42.56",
+        "timestamp": "1689615000008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.01",
+        "timestamp": "1689615300007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.45",
+        "timestamp": "1689615600008"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "40.78",
+        "timestamp": "1689615900009"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.82",
+        "timestamp": "1689616200010"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.86",
+        "timestamp": "1689616500007"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "41.59",
+        "timestamp": "1689616800103"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.87",
+        "timestamp": "1689617100006"
+    },
+    {
+        "weather": "01d",
+        "PVArrayInputVoltage": "42.18",
+        "timestamp": "1689617400013"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.21",
+        "timestamp": "1689617700009"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.71",
+        "timestamp": "1689618000007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "41.61",
+        "timestamp": "1689618300010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.58",
+        "timestamp": "1689618600011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "41.63",
+        "timestamp": "1689618900007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "41.14",
+        "timestamp": "1689619200008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "41.06",
+        "timestamp": "1689619500010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "41.56",
+        "timestamp": "1689619800007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.9",
+        "timestamp": "1689620100008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "41",
+        "timestamp": "1689620400007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.79",
+        "timestamp": "1689620700007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.82",
+        "timestamp": "1689621000007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.78",
+        "timestamp": "1689621300009"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.83",
+        "timestamp": "1689621600008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "41.13",
+        "timestamp": "1689621900007"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.44",
+        "timestamp": "1689622200006"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.23",
+        "timestamp": "1689622500006"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.19",
+        "timestamp": "1689622800006"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.64",
+        "timestamp": "1689623100006"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.38",
+        "timestamp": "1689623400006"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.79",
+        "timestamp": "1689623700033"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "40.99",
+        "timestamp": "1689624000011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "39.25",
+        "timestamp": "1689624300011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "38.49",
+        "timestamp": "1689624600012"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "14.15",
+        "timestamp": "1689624900011"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "36.75",
+        "timestamp": "1689625200009"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "37.13",
+        "timestamp": "1689625500011"
+    },
+    {
+        "weather": "02dw",
+        "PVArrayInputVoltage": "36.81",
+        "timestamp": "1689625800008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "20.93",
+        "timestamp": "1689626100008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "14.45",
+        "timestamp": "1689626400010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "14.39",
+        "timestamp": "1689626700008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "14.31",
+        "timestamp": "1689627000010"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "14.24",
+        "timestamp": "1689627300008"
+    },
+    {
+        "weather": "04d",
+        "PVArrayInputVoltage": "15.93",
+        "timestamp": "1689627600104"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "17.44",
+        "timestamp": "1689627900011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "13.07",
+        "timestamp": "1689628200011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "13",
+        "timestamp": "1689628500007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "12.93",
+        "timestamp": "1689628800011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "8.45",
+        "timestamp": "1689629100007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "3.94",
+        "timestamp": "1689629400007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "1.89",
+        "timestamp": "1689629700007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.9",
+        "timestamp": "1689630000008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.46",
+        "timestamp": "1689630300006"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.27",
+        "timestamp": "1689630600007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689630900008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.18",
+        "timestamp": "1689631200009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689631500103"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689631800011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.18",
+        "timestamp": "1689632100011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.18",
+        "timestamp": "1689632400011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.19",
+        "timestamp": "1689632700006"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689633000012"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689633300012"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689633600008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689633900007"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689634200010"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.22",
+        "timestamp": "1689634500008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689634800008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.22",
+        "timestamp": "1689635100004"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.23",
+        "timestamp": "1689635400103"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689635700011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689636000011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689636300008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689636600010"
+    },
+    {
+        "weather": "03n",
+        "PVArrayInputVoltage": "0.22",
+        "timestamp": "1689636900011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.2",
+        "timestamp": "1689637200011"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689637500008"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689637800009"
+    },
+    {
+        "weather": "04n",
+        "PVArrayInputVoltage": "0.21",
+        "timestamp": "1689638100007"
+    }
+]
